@@ -1,0 +1,1 @@
+print("Inizio del corso di informatica!")
