@@ -1,4 +1,4 @@
 nome = input("Inserisci nome: ")
 
-for lettera in list(nome):
+for lettera in nome:
     print(lettera)
